@@ -1,0 +1,10 @@
+.copy_right_footer{
+    position: fixed;
+    bottom: 0px;
+}
+
+body{
+    background-color: yellow;
+    font-size: 25px;
+    font-weight: bold;
+}
